@@ -5,7 +5,7 @@
   <img src="Screens/screen2.png" width="120" style="margin-right:-40px; opacity:0.6;"/>
   <img src="Screens/screen3.png" width="120" style="margin-right:-40px; opacity:0.6;"/>
   <img src="Screens/screen4.png" width="120" style="margin-right:-40px; opacity:0.6;"/>
-  <img src="Screens/screen1.png" width="180"/>
+  <img src="Screens/screen1.png" width="120"/>
 </p>
 
 ## 📱 Overview
