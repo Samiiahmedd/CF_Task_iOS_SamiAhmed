@@ -9,9 +9,15 @@ import SwiftUI
 
 @main
 struct CF_Task_iOS_SamiAhmedApp: App {
+    
+    // MARK: - Properties
+    @UIApplicationDelegateAdaptor(AppDelegate.self) var delegate
+    
+    // MARK: - Body
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            EmptyView()
         }
     }
 }
+
