@@ -1,9 +1,10 @@
 # CF_Task_iOS_SamiAhmed
 
 <!-- Screenshots -->
-![Screen 1](Screenshots/screen1.png)
-![Screen 2](Screenshots/screen2.png)
-![Screen 3](Screenshots/screen3.png)
+![Screen 1](Screens/screen1.png)
+![Screen 2](Screens/screen2.png)
+![Screen 3](Screens/screen3.png)
+![Screen 3](Screens/screen4.png)
 
 ## 📱 Overview
 An iOS app built with **SwiftUI** following **MVVM** and **Clean Architecture**.  
